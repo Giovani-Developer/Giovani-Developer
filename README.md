@@ -2,7 +2,7 @@
 
 
 - 🔭 Somente estudo no momento.
-- 🌱 Estou aprendendo Java.
+- 🌱 Estou aprendendo Python.
 - 📫 Contate-me no email: giovanifreitasdc@gmail.com
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovani-Developer&show_icons=true&theme=dark)](https://github.com/Giovani-Developer/github-readme-stats)
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
