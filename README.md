@@ -2,7 +2,7 @@
 
 
 - 🔭 Somente estudo no momento.
-- 🌱 Estou aprendendo Python.
+- 🌱 Estou aprendendo Node.js.
 - 📫 Contate-me no email: giovanifreitasdc@gmail.com
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovani-Developer&show_icons=true&theme=dark)](https://github.com/Giovani-Developer/github-readme-stats)
