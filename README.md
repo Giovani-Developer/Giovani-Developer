@@ -1,7 +1,7 @@
 ## Olá, Sou o Giovani! 👋
 
 
-- 🔭 Somente estudo no momento.
+- 🔭 Estou cursando Análise Desenvolvimento de Sistemas.
 - 🌱 Estou aprendendo Java.
 - 📫 Contate-me no email: giovanifreitasdc@gmail.com
 
@@ -14,6 +14,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+   
 </div>
 
 ##
